@@ -2,7 +2,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const redis = require('redis');
-const leaderboardRoutes = require('./routes/leaderboard');
+const leaderboardRoutes = require('./src/routes/leaderboard');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
