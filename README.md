@@ -1,4 +1,4 @@
-# 🏆 Real-time Leaderboard API
+# 🏆 RankForge Engine API
 
 A high-performance leaderboard system built with Node.js, MongoDB, and Redis. This project demonstrates real-time ranking capabilities with sub-millisecond query performance using Redis sorted sets, backed by MongoDB for data persistence.
 
